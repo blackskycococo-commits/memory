@@ -1,8 +1,8 @@
 {
   "ceo": "google/gemma-4-e4b",
-  "youtube": "google/gemma-4-e4b",
-  "instagram": "google/gemma-4-e4b",
-  "designer": "google/gemma-4-e4b",
+  "youtube": "qwen3:4b",
+  "instagram": "qwen3:4b",
+  "designer": "qwen3:4b",
   "developer": "google/gemma-4-e4b",
   "business": "google/gemma-4-e4b",
   "secretary": "google/gemma-4-e4b",
