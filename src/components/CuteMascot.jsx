@@ -80,7 +80,7 @@ export default function CuteMascot({ mode, isRunning, sessionsCompleted }) {
         }`} />
 
         <svg className="w-28 h-28 sm:w-32 sm:h-32 drop-shadow-2xl" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-          {/* 캐릭터 몸체 (토마토 / 코다리 믹스 캐릭터) */}
+          {/* 캐릭터 몸체 (토마토 / 데이비드 믹스 캐릭터) */}
           {mode === 'focus' ? (
             // 집중 모드: 귀여운 붉은 뽀모도로
             <>
