@@ -1,8 +1,8 @@
 {
-  "ceo": "qwen3:4b",
+  "ceo": "gemma4:e2b",
   "youtube": "qwen3:4b",
   "instagram": "qwen3:4b",
-  "designer": "qwen3:4b",
+  "designer": "gemma4:e2b",
   "developer": "qwen3:4b",
   "business": "qwen3:4b",
   "secretary": "qwen3:4b",
