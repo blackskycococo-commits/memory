@@ -16,3 +16,5 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-08-16] 현빈아, 이번 달 PayPal 매출 실데이터 가져와서 분석하고 다음 액션 1개 추천해줘. → 보고서 sessions/2026-08-16T08-31/_report.md
 - [2026-08-16] 현빈아, 이번 달 PayPal 매출 실데이터 가져와서 분석하고 다음 액션 1개 추천해줘. → 보고서 sessions/2026-08-16T08-31/_report.md
 - [2026-08-16] Features  Payment methods  Expanded checkout Accept 3D Secure payments and present credit and debit card fields using your site's branding.  Advanced Credit and Debit Card Payments PayPal payment buttons plus customized card fields.  Apple Pay Enable customers to pay with Apple Pay in iOS apps and S
+- [2026-08-16] [자율 사이클 — 2026-08-16] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배해서 실행하세요. 같은 산출물을 반복하지 마세요 — 메모리에 비슷한 항목이 24시간 내에 있으면 다른 각도로 진전시키세요. → 보고서 sessions/2026-08-16T08-45/_report.md
+- [2026-08-16] 내가 이해가 하기가 어려운데  내가 하고 싶은데 너희가 리서치 해서 매일 블로그를 1나 유투브 숏츠 하나 이렇게 올릴꺼야  사람들이 제일 관심있고 조회수 제일 잘나오는 주제로 매일 다르게 너가 올려주면되 숏츠는 영상 만들어서 올려주면 되고. 그걸로 수익을 내어 볼라고 그래 그렇기 위해서 어떤 블로그가 수익창출이 제일 잘되는지 확인해봐야데 최신 정보들 잘 거색 해서. 그리고 목표는 너희가 그렇게 블로그와 숏츠 만들어 올려서 1주일에 500불 이상 수익을 낼수 있게 만드는거 어려울까? → 보고서 sessions/2026-08-16T08
