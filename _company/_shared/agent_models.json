@@ -1,12 +1,12 @@
 {
-  "ceo": "google/gemma-4-e4b",
-  "youtube": "gemma4:26b",
+  "ceo": "qwen3:4b",
+  "youtube": "qwen3:4b",
   "instagram": "qwen3:4b",
   "designer": "qwen3:4b",
   "developer": "gemma4:26b",
-  "business": "gemma4:26b",
-  "secretary": "gemma4:26b",
-  "editor": "gemma4:26b",
-  "writer": "gemma4:26b",
-  "researcher": "gemma4:26b"
+  "business": "qwen3:4b",
+  "secretary": "qwen3:4b",
+  "editor": "qwen3:4b",
+  "writer": "qwen3:4b",
+  "researcher": "qwen3:4b"
 }
